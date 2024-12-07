@@ -1,5 +1,5 @@
 {
-    "display_name": "Chess",
+    "display_name": "tictactoe",
     "loading_order": 200,
     "requires": [],
     "optional": [],
